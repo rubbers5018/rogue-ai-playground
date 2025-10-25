@@ -1,0 +1,25 @@
+[server]
+# Enable serving static files
+enableStaticServing = true
+fileWatcherType = "auto"
+
+# CORS settings for PWA
+enableCORS = true
+enableXsrfProtection = false
+
+[browser]
+# Prevent automatic opening
+gatherUsageStats = false
+
+[theme]
+# Dark theme for Rogue AI
+primaryColor = "#ff6b35"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#1e1e1e"
+textColor = "#fafafa"
+font = "sans serif"
+
+[client]
+# Show error details
+showErrorDetails = true
+toolbarMode = "minimal"

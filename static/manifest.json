@@ -1,0 +1,26 @@
+{
+  "name": "Rogue AI Playground",
+  "short_name": "Rogue AI",
+  "description": "Private uncensored AI playground with NeuralDaredevil, Together.ai, Venice AI, and OpenRouter integrations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff6b35",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/static/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities", "developer tools"],
+  "prefer_related_applications": false
+}
